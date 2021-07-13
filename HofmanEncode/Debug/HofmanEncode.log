@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Users\K-A-H-D\source\repos\HofmanEncode\HofmanEncode\Min_Heap.h(167,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\K-A-H-D\source\repos\HofmanEncode\HofmanEncode\Min_Heap.h(172,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\K-A-H-D\source\repos\HofmanEncode\HofmanEncode\Hoofman_Code.h(36,11): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\K-A-H-D\source\repos\HofmanEncode\HofmanEncode\Hoofman_Code.h(180,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\K-A-H-D\source\repos\HofmanEncode\HofmanEncode\Hoofman_Code.h(243,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\K-A-H-D\source\repos\HofmanEncode\HofmanEncode\Hoofman_Code.h(276,21): warning C4018: '<': signed/unsigned mismatch
+  HofmanEncode.vcxproj -> C:\Users\K-A-H-D\source\repos\HofmanEncode\Debug\HofmanEncode.exe
